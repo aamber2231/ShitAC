@@ -1,0 +1,4 @@
+name: ShitAC
+version: ${project.version}
+main: me.aamber.shitac.ShitAC
+api-version: 1.17
